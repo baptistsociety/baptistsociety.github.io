@@ -53,6 +53,14 @@ body {
     margin: 0 auto;
 }
 
+.hero .hero-image {
+    order: 1;
+}
+
+.hero .hero-content {
+    order: 2;
+}
+
 .hero-heading {
     font-size: 48px;
     font-weight: 700;
